@@ -6,7 +6,7 @@ import { LeftSection } from './HeroStyles';
 
 const Hero = (props) => (
   <Section row nopadding>
-    <LeftSection>
+    <LeftSection> 
       <SectionTitle main center>
         Bienvenue, je suis  <br/>
         Badara Seydi
