@@ -17,7 +17,7 @@ const Header = () =>  (
     {/* changer le style dans header styles */}
     <Div2>
       <li>
-        <Link href= "projects">
+        <Link href= "#projects">
           <NavLink>Projects</NavLink>
         </Link>
       </li>
