@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://google.com',
     id: 3,
   },
+  {
+    title: 'MailSender',
+    description: "Envoyez un mail d'anniversaire à vos proches en renseignant le nom , l'age ,le mail et un petit message sympa. Une V2 permettra d'envoyer des messages pour d'autres occasion (ex : Saint Valentin , anniversaire de mariage etc...)",
+    image: '/images/5.png',
+    tags: ['EJS', 'Express', 'NodeJS'],
+    source: 'https://github.com/Badara-Seydi/mailSender',
+    visit: 'https://google.com',
+    id: 4,
+  }
 ];
 
 export const TimeLineData = [
