@@ -50,5 +50,5 @@ export const TimeLineData = [
   { year: 2018, text: 'Mes premiers projets complets HTML/CSS', },
   { year: 2019, text: 'Apprentissage du développement et de la gestion de base de données relationnelles type MySQL, PostgresQL', },
   { year: 2020, text: 'Projets complets en autodidacte , Front-end , Back-end', },
-  { year: 2021, text: 'Perfectionnement avec Oclock et ouverture de ma structure en free-lance' },
+  { year: 2021, text: `Perfectionnement avec l'école O'Clock + Apprentissage Python` },
 ];
