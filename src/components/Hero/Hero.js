@@ -12,7 +12,7 @@ const Hero = (props) => (
         Badara Seydi
         </SectionTitle>
         <SectionText>
-          Développeur Javascript Full Stack orienté Back-End, je gére vos datas et le front sur React.
+          Développeur Javascript Full Stack orienté Back-End. 
         </SectionText>
         <Button onCLick={()=>window.location='https://google.com'}>En Savoir +</Button>
     </LeftSection>
