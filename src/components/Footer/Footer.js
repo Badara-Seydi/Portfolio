@@ -19,7 +19,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Votre projet devient le mien</Slogan>
+          <Slogan>"Je ne perds jamais, soit je gagnes, soit j'apprends"</Slogan>
         </CompanyContainer>
         <SocialContainer>
         <SocialIcons href = "https://github.com/Badara-Seydi">
