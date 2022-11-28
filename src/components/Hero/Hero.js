@@ -14,7 +14,7 @@ const Hero = (props) => (
         <SectionText>
           Développeur Javascript Full Stack orienté Back-End. 
         </SectionText>
-        <Button onCLick={()=>window.location='https://google.com'}>En Savoir +</Button>
+        {/* <Button onCLick={()=>window.location='https://google.com'}>En Savoir +</Button> */}
     </LeftSection>
   </Section>
 );
